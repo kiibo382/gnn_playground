@@ -1,3 +1,2 @@
-# gnn_playground
-# gnn_playground
-# gnn_playground
+# Graph Neural Network Playground
+
